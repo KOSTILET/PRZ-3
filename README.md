@@ -18,3 +18,9 @@ PRZ-3
 ![фото-3](https://github.com/KOSTILET/PRZ-3/assets/64083435/f33b2ccc-3973-4186-a14c-cbfce56cede5)
 # Файл конфигурации promtail
 ![image](https://github.com/KOSTILET/PRZ-3/assets/64083435/0ec88a0c-2d52-41ea-b434-cdf46ed7cccb)
+# Создадим сервис для promtail
+![image](https://github.com/KOSTILET/PRZ-3/assets/64083435/72f21f37-9f5f-4280-ad40-33aa951f67a1)
+![4 1](https://github.com/KOSTILET/PRZ-3/assets/64083435/dad8395d-be66-4563-937e-32439f576349)
+# Просмотр логов в Grafana
+![Uploading image.png…]()
+
