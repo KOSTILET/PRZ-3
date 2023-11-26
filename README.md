@@ -22,5 +22,6 @@ PRZ-3
 ![image](https://github.com/KOSTILET/PRZ-3/assets/64083435/72f21f37-9f5f-4280-ad40-33aa951f67a1)
 ![4 1](https://github.com/KOSTILET/PRZ-3/assets/64083435/dad8395d-be66-4563-937e-32439f576349)
 # Просмотр логов в Grafana
-![Uploading image.png…]()
+![image](https://github.com/KOSTILET/PRZ-3/assets/64083435/07788487-3186-46a2-81dd-05d308f1ec5c)
+
 
